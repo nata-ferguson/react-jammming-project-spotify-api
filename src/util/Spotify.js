@@ -1,4 +1,4 @@
-const clientId = 'afbe2caa28df43a2bbc7f5203eddd279';
+const clientId = 'my client id here';
 // const redirectUri = 'http://jumpy-vase.surge.sh/' // for deployment; 
 const redirectUri = 'http://localhost:3000/callback/';
 
