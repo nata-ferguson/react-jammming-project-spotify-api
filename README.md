@@ -1,1 +1,1 @@
-# react-jammming-project-spotify-api
+# React app called Jammming using Spotify web API
